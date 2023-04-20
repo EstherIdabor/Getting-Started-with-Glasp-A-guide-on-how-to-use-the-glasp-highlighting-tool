@@ -1,10 +1,10 @@
 ## Table of Content
 
-[Introduction](#introduction)
-[What is Glasp](#what-is-glasp)
-[Reasons why you need Glasp](#reasons-why-you-need-glasp)
-[How to Install Glasp on the chrome browser](#how-to-install-glasp-on-the-chrome-browser)
-[How to highlight articles and create notes on the browser using Glasp](#how-to-highlight-articles-and-create-notes-on-the-browser-using-glasp)
+- [Introduction](#introduction)
+- [What is Glasp](#what-is-glasp)
+- [Reasons why you need Glasp](#reasons-why-you-need-glasp)
+- [How to Install Glasp on the chrome browser](#how-to-install-glasp-on-the-chrome-browser)
+- [How to highlight articles and create notes on the browser using Glasp](#how-to-highlight-articles-and-create-notes-on-the-browser-using-glasp)
 
 # Introduction
 
