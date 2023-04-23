@@ -56,6 +56,7 @@ In spite of the fact that what we see is the same, we all see things differently
 Glasp extension is available for Chrome, Brave, Microsoft Edge, Vivaldi, Opera and Safari browser. For Chrome, Brave and Edge you can get the extension from the chrome web store while for Safari, the extension is available on the Mac App store.
 
 Click on the link below to add Glasp to your browser extension.
+
 [Glasp chrome extension](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik?ref=blog.glasp.co)
 
 [Glasp Safari extension](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124?mt=12&ref=blog.glasp.co)
