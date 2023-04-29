@@ -16,6 +16,7 @@
 # Introduction
 
 Reading online was less exciting for most people like myself because of the lack of ways to highlight and create notes easily while reading. That challenge no longer exists with the advent of highlighting apps.
+
 Glasp has taken highlighting articles to a new level by providing a platform that publicizes your highlight and notes. It also connects you to people reading the same articles as you are and other benefits you will come to appreciate as you read on.
 
 The world is better today because of the knowledge and ideas passed down from generation to generation. Glasp is facilitating the spread of knowledge by providing a platform that makes highlighting remarkable points in an article or video possible and accessible to all.
@@ -111,7 +112,7 @@ As with articles you can also share on Twitter, add notes and delete the highlig
 One of the perks of using Glasp over other highlighting apps is its social platform. It provides you the opportunity to view the highlights made by other members on an article, you can read comments and write comments about the article as well. You can also follow users you wish to follow to see the articles they read as well notes and highlights made by them. In most cases, this inspires you to read more, get better at reading and highlighting salient points and also give you ideas on articles to read.
 
 When you open Glasp on your browser after you are signed in, you are greeted with the homepage. On the home page, you will see highlighted articles related to your topics of interest.
-You can view all the highlights and notes you have made on articles by clicking on _`my Highlights`_. the red triangle in the image below.
+You can view all the highlights and notes you have made on articles by clicking on the _`my Highlights`_. the red triangle in the image below.
 ![Glasp page](</images/annotely_image%20(31).png>)
 On the _`my Highlights`_ page, you will find more information about your profile on the **left** side which includes your activities, the people you follow and the people that follow you.
 
