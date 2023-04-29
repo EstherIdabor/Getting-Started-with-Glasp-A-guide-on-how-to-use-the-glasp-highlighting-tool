@@ -15,16 +15,18 @@
 
 # Introduction
 
-Reading online was less exciting for most people like myself because of the lack of ways to highlight and create notes easily while reading. That challenge no longer exists with the advent of highlighting apps. Glasp has taken highlighting articles to a new level by providing a platform that publicises your highlight and notes. It also connects you to people reading the same articles as you are and other benefits you will come to appreciate as you read on.
+Reading online was less exciting for most people like myself because of the lack of ways to highlight and create notes easily while reading. That challenge no longer exists with the advent of highlighting apps.
+Glasp has taken highlighting articles to a new level by providing a platform that publicizes your highlight and notes. It also connects you to people reading the same articles as you are and other benefits you will come to appreciate as you read on.
 
 The world is better today because of the knowledge and ideas passed down from generation to generation. Glasp is facilitating the spread of knowledge by providing a platform that makes highlighting remarkable points in an article or video possible and accessible to all.
-Glasp is solving the problem of isolated learning. Learning in isolation is a slower approach to gaining knowledge and developing intellectual depth. With democratised access to highlighted information, people with less intellectual prowess can access highlighted information and notes from people who are well-read.
 
 # What is Glasp?
 
 Glasp is an acronym that stands for _`Greatest Legacy Accumulated as Shared Proof`_. It is a social app that allows you to highlight important and salient points you come across while reading articles or watching videos on the web using its browser extension and makes it accessible to like-minded people on its social platform.
 
-In spite of the fact that what we see is the same, we all see things differently, as explained by the saying `We all look but see differently.` When reading the same book, each of us may have different interpretations, conclusions, and takeaways depending on a variety of variables. Through access to other users' highlights and notes, Glasp has made it possible to see various viewpoints, ideas, and thoughts about an article or video.
+Although what we see may be the same, we all see things differently, as explained by the saying `We all look but see differently.` When reading the same book, each of us may have different interpretations, conclusions, and takeaways depending on a variety of variables. Through access to other users' highlights and notes, Glasp has made it possible to see various viewpoints, ideas, and thoughts about an article or video.
+
+Glasp is solving the problem of isolated learning. Learning in isolation is a slower approach to gaining knowledge and developing intellectual depth. With democratised access to highlighted information, people with less intellectual prowess can access highlighted information and notes from people who are well-read.
 
 ## Reasons Why you need Glasp
 
@@ -38,7 +40,7 @@ In spite of the fact that what we see is the same, we all see things differently
 
 - **Join a community of like-minded readers and knowledge seekers**
 
-  For each article read and highlighted on the platform. Glasp creates a community in which anyone who has read and highlighted an article can interact with others who have also read and highlighted the article. This interaction is in the form of writing comments and replying to comments.
+  For each article read and highlighted on the platform. Glasp creates a community in which anyone who has read and highlighted an article can interact with others who have also read and highlighted the article. This fosters communication and deepens your knowledge about a topic or discourse.
 
 ## How to Use Glasp on your browser
 
@@ -50,7 +52,7 @@ In spite of the fact that what we see is the same, we all see things differently
 
 - A page to sign up using Google will come up next, click on `continue with Google`.
   ![sign up page 2](</images/annotely_image%20(23).png>)
-- After a successful signing-in, the homepage will be displayed. A prompt to add topics that are of interest to you will appear. This will enable you to see on your feed, highlighted information and notes on articles relating to those topics.
+- After a successful signing-in, the homepage will be displayed. A prompt to add topics that are of interest to you will appear. This will enable you to see highlighted information and notes on articles relating to those topics on your feed.
   ![home page](</images/annotely_image%20(27).png>)
 
 #### Download the Glasp Chrome extension on your browser
@@ -65,13 +67,13 @@ Click on the link below to add Glasp to your browser extension.
 
 ![chrome web store](</images/annotely_image%20(24).png>)
 
-For this article, I will be using the chrome browser but the steps are similar on the other browsers.
+For this article, I will use the chrome browser but the steps are similar on the other browsers.
 
 - Click on `Add to Chrome`.
-- After the installation, you will see the Glasp extension among your extensions on the tool bar.
+- After the installation, you will see the Glasp extension among your extensions on the toolbar.
   ![chrome web page with the Glasp extension](</images/annotely_image%20(25).png>)
 
-- Pin the extension(the second arrow points to the pin) so that it appears on the tool bar and is easily accessible anytime you want to see your highlights.
+- Pin the extension(the second arrow points to the pin) so that it appears on the toolbar and is easily accessible anytime you want to see your highlights.
 
 #### Highlight articles and create notes on the browser
 
@@ -80,47 +82,47 @@ To highlight any article on Glasp;
 - Open the article on your browser. You can use this article on [how to think](https://fs.blog/how-to-think/) as an example.
 - While reading, when you come across any statement that resonates with you or you find the need to highlight, click and drag through the statement to select it, a pop-up appears displaying different colours, choose whichever you desire for your highlight.
   ![how to highlight an article using Glasp](</images/annotely_image%20(26).png>)
-- While the pop-up appears, you also have the option to add a note and share on twitter. To see your highlight click on the glasp extension.
+- While the pop-up appears, you also have the option to add a note and share it on twitter. To see your highlight click on the Glasp extension.
 - When you open the Glasp Extension, you can add a tag depending on the topic you think the article is about. The first arrow in the image below points to the tag.
   ![Glasp extension](</images/annotely_image%20(32).png>)
-- On the top right end of each highlight are three horizontal dots(the menu icon) that appears when you hover on it. The second arrow in the image above points to it. It provides you with options to:
-  - share on twitter.
-  - add a note .
-  - copy highlight image which makes it appear as a quote.
-  - copy the link to the highlight
-  - delete the highlight.
+- On the top right end of each highlight are three horizontal dots(the menu icon) that appear when you hover over it. The second arrow in the image above points to it. It provides you with options to:
+  - Share on Twitter.
+  - Add a note .
+  - Create highlight image which makes it appear as a quote.
+  - Copy the link to the highlight.
+  - Delete the highlight.
 
 #### Highlight videos and take notes on youtube
 
-Highlighting video text and taking note on youtube is very similar with the process for articles.
-To highlight text and add note on youtube videos:
+Highlighting video text and taking notes on youtube is very similar to the process for articles.
+To highlight text and add a note on youtube videos:
 
-- Open the youtube vidoe on your browser. You can use the popular [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc) as an example.
+- Open the youtube video on your browser. You can use the popular [Steve Jobs' 2005 Stanford Commencement Address](https://youtu.be/UF8uR6Z6KLc) as an example.
 
 ![steve Job's Commencement speech](</images/annotely_image%20(28).png>)
 
-- You will see a text transcript by Glasp beside the vidoe. While watching, when you come across any statement that resonates with you or you see the need to highlight, drag your cursor over the statement and highlight it.
+- You will see a text transcript by Glasp beside the video. While watching, when you come across any statement that resonates with you or you see the need to highlight, drag your cursor over the statement and highlight it.
   ![steve Job's Commencement speech](</images/annotely_image%20(29).png>)
 
-As with articles you can also share on twitter, add notes and delete the highlight when you click on the extension.
+As with articles you can also share on Twitter, add notes and delete the highlight when you click on the extension.
 
 ## Exploring the Glasp App
 
-One of the perks of using Glasp over other highlighting apps is its social platform. It provides you the opportunity to view the highlights made by other members on an article, you can read comments and write comments about the article as well. You can also follow users you wish to follow to see the articles they read as well notes and highlights made by them. In most cases this inspires you to read more, get better at reading and highlighting salient points and also give you ideas on articles to read.
+One of the perks of using Glasp over other highlighting apps is its social platform. It provides you the opportunity to view the highlights made by other members on an article, you can read comments and write comments about the article as well. You can also follow users you wish to follow to see the articles they read as well notes and highlights made by them. In most cases, this inspires you to read more, get better at reading and highlighting salient points and also give you ideas on articles to read.
 
-When you open glasp on your browser after you are signed in, you are greeted with the homepage. In the home page you will see highlighted articles related to your topics of interest.
-You can view all the highlight and notes you have made on articles by clicking on _`my Highlights`_. the red triangle in the image below.
+When you open Glasp on your browser after you are signed in, you are greeted with the homepage. On the home page, you will see highlighted articles related to your topics of interest.
+You can view all the highlights and notes you have made on articles by clicking on _`my Highlights`_. the red triangle in the image below.
 ![Glasp page](</images/annotely_image%20(31).png>)
-In _`my Highlights`_ page you will find more information about your profile on the left side which includes your activities, the people you follow and the people that follows you.
+On the _`my Highlights`_ page, you will find more information about your profile on the **left** side which includes your activities, the people you follow and the people that follow you.
 
 At the **center** of the page, you find all the articles that you have highlighted and made notes on.
 
 At the **right**, you find more options available for you to carry out on your highlights.
 ![My highlight page](</images/annotely_image%20(34).png>)
 
-**Add to favorite**.
+**Add to favourite**.
 
-The first arrow in the image above points to the star icon, click on it to include an article to your list of favorite.
+The first arrow in the image above points to the star icon, click on it to include an article to your list of favourites.
 
 **Share your Highlights and Note**.
 
@@ -129,13 +131,13 @@ You can copy the link and use that to share your highlights and notes as well. Y
 
 ## More Facts about Glasp
 
-- Glasp Highlighter can only be used on computers as there is no mobile version of the extension yet. However, you can still access the platform and view your page on mobile devices.
+- Glasp Highlighter can only be used on computers as there is no mobile version of the extension yet. However, you can still access the platform and view your page on a mobile device.
 - The Glasp highlighter is disabled on certain websites such as Google products, note-taking apps, bank apps, etc. According to Glasp, this is due to technical and security reasons.
 - Currently, you cannot import highlights from other platforms but it is a feature that will likely be added soon, maybe when you stumble on this article, you might be able to do that already.
 
 ## Conclusion
 
-Glasp is free to use and of huge benefit to researchers, student, content writer, knowledge seekers and literally everyone as technology is becoming a major parts of our lives.The app is also easy to navigate and visiting the app daily is something you should make a habit, you can find great articles there and it builds you up intellectually.
+Glasp is free to use and of huge benefit to researchers, students, content writers, knowledge seekers and literally everyone as technology is becoming a major parts of our lives.The app is also easy to navigate. Visiting the app daily is something you should make a habit of because you can find great articles there and it builds you up intellectually.
 
 ## Further Resources
 
